@@ -2,17 +2,17 @@
   "_resourceType": "trigger",
   "id": "e4702ffd-2ebe-5e58-9bce-ad9bf59ff42d",
   "_index": 0,
-  "symbol": "trigger_ueber_den_stein",
+  "symbol": "trigger_over_the_stone",
   "prefabId": "",
-  "name": "Über den Stein",
+  "name": "Over The Stone",
   "x": 9,
-  "y": 3,
+  "y": 2,
   "width": 2,
-  "height": 9,
+  "height": 10,
   "prefabScriptOverrides": {},
   "script": [
     {
-      "id": "60bba3af-a946-50f8-b98f-8b23b045bbf5",
+      "id": "43a90234-7845-53d6-b366-b19454e26044",
       "command": "EVENT_SET_VALUE",
       "args": {
         "variable": "1",

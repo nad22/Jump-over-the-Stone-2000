@@ -1,0 +1,105 @@
+{
+  "_resourceType": "scene",
+  "id": "acc0b57f-e57a-560f-b12f-8bee68654995",
+  "_index": 4,
+  "type": "LOGO",
+  "name": "Game Over",
+  "symbol": "scene_gameover",
+  "x": 800,
+  "y": 0,
+  "width": 20,
+  "height": 18,
+  "backgroundId": "a934803b-c754-5d1b-b18d-4c6bdbfb891a",
+  "tilesetId": "",
+  "colorModeOverride": "none",
+  "paletteIds": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "spritePaletteIds": [],
+  "autoFadeSpeed": 1,
+  "script": [
+    {
+      "id": "d50e217b-90fd-58a6-a5fb-1fc08a48337b",
+      "command": "EVENT_ACTOR_DEACTIVATE",
+      "args": {
+        "actorId": "player"
+      }
+    },
+    {
+      "id": "6355cdac-9c58-5b0e-9351-337529e83205",
+      "command": "EVENT_WAIT",
+      "args": {
+        "time": {
+          "type": "number",
+          "value": 1.2
+        },
+        "frames": {
+          "type": "number",
+          "value": 1
+        },
+        "units": "time"
+      }
+    },
+    {
+      "id": "0d7ea364-a0a6-5772-82ab-25d0d00e0615",
+      "command": "EVENT_AWAIT_INPUT",
+      "args": {
+        "input": [
+          "start"
+        ]
+      }
+    },
+    {
+      "id": "0f0a5a17-85fc-5f7d-8686-e2339f2760c5",
+      "command": "EVENT_SOUND_PLAY_EFFECT",
+      "args": {
+        "type": "beep",
+        "priority": "medium",
+        "pitch": 7,
+        "duration": 0.12,
+        "wait": false
+      }
+    },
+    {
+      "id": "329b89db-814e-59f4-a5f5-a4ef13d8486c",
+      "command": "EVENT_WAIT",
+      "args": {
+        "time": {
+          "type": "number",
+          "value": 0.3
+        },
+        "frames": {
+          "type": "number",
+          "value": 1
+        },
+        "units": "time"
+      }
+    },
+    {
+      "id": "697740b2-d6db-54b1-b5e2-0fb42f455305",
+      "command": "EVENT_SWITCH_SCENE",
+      "args": {
+        "sceneId": "910f0d88-aeb4-55e4-ad08-5d95b13d88f5",
+        "x": {
+          "type": "number",
+          "value": 0
+        },
+        "y": {
+          "type": "number",
+          "value": 0
+        },
+        "direction": "right",
+        "fadeSpeed": "2"
+      }
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "collisions": ""
+}
