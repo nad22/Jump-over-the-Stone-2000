@@ -8,7 +8,7 @@
   "x": 600,
   "y": 0,
   "width": 20,
-  "height": 111,
+  "height": 107,
   "backgroundId": "12ba2f07-2233-5413-9752-4ffcfb16461d",
   "tilesetId": "",
   "colorModeOverride": "none",
@@ -66,12 +66,12 @@
         "comparison": "<=",
         "to": {
           "type": "number",
-          "value": 744
+          "value": 712
         },
         "operation": "+=",
         "value": {
           "type": "number",
-          "value": 4
+          "value": 1
         }
       },
       "children": {

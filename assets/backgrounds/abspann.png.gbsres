@@ -3,11 +3,11 @@
   "id": "12ba2f07-2233-5413-9752-4ffcfb16461d",
   "name": "abspann",
   "symbol": "bg_abspann",
-  "tileColors": "008ac+",
+  "tileColors": "0085c+",
   "filename": "abspann.png",
   "width": 20,
-  "height": 111,
+  "height": 107,
   "imageWidth": 160,
-  "imageHeight": 888,
+  "imageHeight": 856,
   "autoColor": false
 }
