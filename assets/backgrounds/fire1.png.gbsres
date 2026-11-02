@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "2b78c73c-477c-5981-ab01-0fe7a6b84933",
+  "name": "fire1",
+  "symbol": "bg_fire1",
+  "tileColors": "00168+",
+  "filename": "fire1.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": false
+}

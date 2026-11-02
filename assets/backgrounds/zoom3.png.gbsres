@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "2d7c8a9e-1109-5d2d-9688-ea940488271f",
+  "name": "zoom3",
+  "symbol": "bg_zoom3",
+  "tileColors": "00168+",
+  "filename": "zoom3.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": false
+}

@@ -1,0 +1,94 @@
+{
+  "_resourceType": "scene",
+  "id": "d5b13e0b-2618-580c-b2ab-a0598bfaa4b4",
+  "_index": 11,
+  "type": "LOGO",
+  "name": "fire2",
+  "symbol": "scene_fire2",
+  "x": 2200,
+  "y": 0,
+  "width": 20,
+  "height": 18,
+  "backgroundId": "f5bc577d-a679-52a1-8dff-2c18619ac6d3",
+  "tilesetId": "",
+  "colorModeOverride": "none",
+  "paletteIds": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "spritePaletteIds": [],
+  "autoFadeSpeed": 1,
+  "script": [
+    {
+      "id": "e1c5db97-a07e-5c19-9873-912fa6e6c5e2",
+      "command": "EVENT_ACTOR_DEACTIVATE",
+      "args": {
+        "actorId": "player"
+      }
+    },
+    {
+      "id": "0d540d86-3e2e-5a73-b9e7-4d03b4b4f0d4",
+      "command": "EVENT_SOUND_PLAY_EFFECT",
+      "args": {
+        "type": "crash",
+        "priority": "high",
+        "duration": 0.5,
+        "wait": false
+      }
+    },
+    {
+      "id": "d28a45a8-cef4-5284-9115-cd786bb4844a",
+      "command": "EVENT_WAIT",
+      "args": {
+        "time": {
+          "type": "number",
+          "value": 0.5
+        },
+        "frames": {
+          "type": "number",
+          "value": 25
+        },
+        "units": "frames"
+      }
+    },
+    {
+      "id": "79339502-12dd-5a04-8330-18337b953f05",
+      "command": "EVENT_CAMERA_SHAKE",
+      "args": {
+        "time": 0.5,
+        "frames": 10,
+        "units": "time",
+        "shakeDirection": "diagonal",
+        "magnitude": {
+          "type": "number",
+          "value": 8
+        }
+      }
+    },
+    {
+      "id": "3cc6b8ee-5824-5556-ba45-f1b8651e5ec4",
+      "command": "EVENT_SWITCH_SCENE",
+      "args": {
+        "sceneId": "4a55bbe6-5681-596d-9f0e-bd2d5b36699f",
+        "x": {
+          "type": "number",
+          "value": 0
+        },
+        "y": {
+          "type": "number",
+          "value": 0
+        },
+        "direction": "right",
+        "fadeSpeed": "3"
+      }
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "collisions": ""
+}

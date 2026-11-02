@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "a0332816-5b35-5700-aa85-fe674ca6367b",
+  "name": "debris",
+  "symbol": "bg_debris",
+  "tileColors": "00168+",
+  "filename": "debris.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": false
+}

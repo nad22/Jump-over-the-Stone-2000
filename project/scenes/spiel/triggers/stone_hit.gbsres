@@ -12,7 +12,7 @@
   "prefabScriptOverrides": {},
   "script": [
     {
-      "id": "e1a1c192-38d5-5f54-830f-cf1507d9b1a3",
+      "id": "2a01970a-32c3-51c2-9be6-24390aca9da1",
       "command": "EVENT_IF_VALUE",
       "args": {
         "variable": "7",
@@ -519,7 +519,7 @@
             }
           },
           {
-            "id": "ec2bda23-6c27-5600-8a97-35af2dc0f5cd",
+            "id": "04113e52-08b9-5200-90a1-ebd879d2088e",
             "command": "EVENT_WAIT",
             "args": {
               "time": {
@@ -534,7 +534,7 @@
             }
           },
           {
-            "id": "3524cb61-fa84-5bda-a5f1-247ebd5a1ccf",
+            "id": "9f0dbd07-d681-5f92-858c-da7810642ad6",
             "command": "EVENT_SWITCH_SCENE",
             "args": {
               "sceneId": "acc0b57f-e57a-560f-b12f-8bee68654995",
