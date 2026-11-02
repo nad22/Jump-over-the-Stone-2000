@@ -27,7 +27,19 @@
     },
     {
       "id": "plat_jump_vel",
-      "value": 14000
+      "value": 20000
+    },
+    {
+      "id": "plat_hold_grav",
+      "value": 1792
+    },
+    {
+      "id": "plat_walk_vel",
+      "value": 9000
+    },
+    {
+      "id": "plat_walk_acc",
+      "value": 900
     }
   ]
 }
