@@ -12,7 +12,7 @@
   "prefabScriptOverrides": {},
   "script": [
     {
-      "id": "8e19c6bf-a913-522f-bc02-93dd12c31a89",
+      "id": "f31a458e-2dff-5622-9dfe-41616e2a7fc4",
       "command": "EVENT_IF_VALUE",
       "args": {
         "variable": "7",
