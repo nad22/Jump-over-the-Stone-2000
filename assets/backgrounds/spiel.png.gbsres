@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "9dd7f282-a077-5ca6-a30c-3367b54130e1",
+  "name": "spiel",
+  "symbol": "bg_spiel",
+  "tileColors": "00168+",
+  "filename": "spiel.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": false
+}

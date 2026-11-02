@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "ca4dd187-8cf4-5e8b-bc46-a4500007eca5",
+  "name": "the_end",
+  "symbol": "bg_the_end",
+  "tileColors": "00168+",
+  "filename": "the_end.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": false
+}
