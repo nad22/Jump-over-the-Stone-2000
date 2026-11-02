@@ -14,7 +14,7 @@
   "paletteId": "",
   "direction": "right",
   "moveSpeed": 1,
-  "animSpeed": 3,
+  "animSpeed": 255,
   "isPinned": false,
   "persistent": false,
   "collisionGroup": "",

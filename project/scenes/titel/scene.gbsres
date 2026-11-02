@@ -24,14 +24,14 @@
   "autoFadeSpeed": 1,
   "script": [
     {
-      "id": "5becfedb-e98a-579e-a45a-44167f9a25ad",
+      "id": "ee481554-e51c-56f0-92e1-ec8596c01168",
       "command": "EVENT_ACTOR_DEACTIVATE",
       "args": {
         "actorId": "player"
       }
     },
     {
-      "id": "5dcbf98c-bde5-5753-b529-7b32a08838a7",
+      "id": "8cc80da8-2c23-5675-8822-1c4e8112b378",
       "command": "EVENT_MUSIC_PLAY",
       "args": {
         "musicId": "4f144f63-6005-4e99-b570-92a526201bd3",
@@ -39,7 +39,7 @@
       }
     },
     {
-      "id": "65e8cf88-9f2a-5b32-82f9-48265007d4fb",
+      "id": "111c75fd-efbd-56b9-89d4-f8074250f06f",
       "command": "EVENT_AWAIT_INPUT",
       "args": {
         "input": [
@@ -48,7 +48,7 @@
       }
     },
     {
-      "id": "b3095963-2fd7-5f8c-bc6d-73cc87d7c9cc",
+      "id": "ca2482e0-1eb2-5b42-a636-5a4661ac9915",
       "command": "EVENT_SOUND_PLAY_EFFECT",
       "args": {
         "type": "beep",
@@ -59,7 +59,7 @@
       }
     },
     {
-      "id": "b85b8b1f-746a-52ed-9cea-7d6b863937ef",
+      "id": "ca7bd2eb-aaec-5fdc-9d6c-bb05c6b00d42",
       "command": "EVENT_WAIT",
       "args": {
         "time": {
@@ -74,7 +74,7 @@
       }
     },
     {
-      "id": "6f101b1f-1e2b-5c10-8131-930d2115d225",
+      "id": "f1f2a238-d264-5fd3-9381-76c318018caa",
       "command": "EVENT_SWITCH_SCENE",
       "args": {
         "sceneId": "6d280f70-26fc-5498-8324-1ecfccae462d",

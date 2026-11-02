@@ -1,0 +1,66 @@
+{
+  "_resourceType": "sprite",
+  "id": "a6b6ddea-064f-534b-9457-f1ac7a4a26ca",
+  "name": "pfft4",
+  "symbol": "sprite_pfft4",
+  "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "pfft4.png",
+  "width": 16,
+  "height": 16,
+  "checksum": "bad24ef5da81f69315996a7727a7f60d094253a8",
+  "states": [
+    {
+      "id": "9d4696a6-9fac-599a-9bfe-588ba0468c01",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "77396336-b102-5ed7-8e51-0be233420f10",
+          "frames": [
+            {
+              "id": "59a3fb43-12fb-5cef-b3fb-b7e71124bf89",
+              "tiles": [
+                {
+                  "id": "60bba3af-a946-50f8-b98f-8b23b045bbf5",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "9de0f066-c787-5558-a27c-9e26f1813133",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

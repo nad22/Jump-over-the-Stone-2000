@@ -12,7 +12,7 @@
   "boundsY": 0,
   "boundsWidth": 16,
   "boundsHeight": 16,
-  "animSpeed": 15,
+  "animSpeed": 255,
   "filename": "puff.png",
   "width": 128,
   "height": 16,
