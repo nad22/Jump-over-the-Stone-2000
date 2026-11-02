@@ -24,14 +24,14 @@
   "autoFadeSpeed": 1,
   "script": [
     {
-      "id": "c5e40d8c-72e0-50ca-8508-c426aafecf2e",
+      "id": "0f108191-0133-58d0-bfb3-cb4020ae9cef",
       "command": "EVENT_ACTOR_DEACTIVATE",
       "args": {
         "actorId": "player"
       }
     },
     {
-      "id": "0d5eaf9a-aa9d-513c-9a3b-b398e7685c9d",
+      "id": "ca5ef833-e32e-56d8-8be3-cc98aac65b3b",
       "command": "EVENT_MUSIC_PLAY",
       "args": {
         "musicId": "a7c68b7f-00bc-4872-9ce8-fe5e62f9b565",
@@ -39,7 +39,7 @@
       }
     },
     {
-      "id": "4b607c27-7ff1-5b18-8752-33916370080f",
+      "id": "43a90234-7845-53d6-b366-b19454e26044",
       "command": "EVENT_CAMERA_MOVE_TO",
       "args": {
         "x": {
@@ -55,7 +55,7 @@
       }
     },
     {
-      "id": "0f108191-0133-58d0-bfb3-cb4020ae9cef",
+      "id": "0d7ea364-a0a6-5772-82ab-25d0d00e0615",
       "command": "EVENT_LOOP_FOR",
       "args": {
         "variable": "0",
@@ -77,7 +77,7 @@
       "children": {
         "true": [
           {
-            "id": "bbad61a6-1647-5f70-b48c-2a14d43fd22c",
+            "id": "d50e217b-90fd-58a6-a5fb-1fc08a48337b",
             "command": "EVENT_CAMERA_SET_POSITION",
             "args": {
               "x": {
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "e07ff103-7740-5d01-9219-f77375ce8477",
+            "id": "6355cdac-9c58-5b0e-9351-337529e83205",
             "command": "EVENT_WAIT",
             "args": {
               "time": {
@@ -110,7 +110,7 @@
       }
     },
     {
-      "id": "ca5ef833-e32e-56d8-8be3-cc98aac65b3b",
+      "id": "0f0a5a17-85fc-5f7d-8686-e2339f2760c5",
       "command": "EVENT_WAIT",
       "args": {
         "time": {
@@ -125,7 +125,7 @@
       }
     },
     {
-      "id": "43a90234-7845-53d6-b366-b19454e26044",
+      "id": "329b89db-814e-59f4-a5f5-a4ef13d8486c",
       "command": "EVENT_SWITCH_SCENE",
       "args": {
         "sceneId": "910f0d88-aeb4-55e4-ad08-5d95b13d88f5",

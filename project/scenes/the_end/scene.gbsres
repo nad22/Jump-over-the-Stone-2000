@@ -24,14 +24,14 @@
   "autoFadeSpeed": 1,
   "script": [
     {
-      "id": "01a1735b-36d1-59e5-9a5f-ec6a023ee482",
+      "id": "4b607c27-7ff1-5b18-8752-33916370080f",
       "command": "EVENT_ACTOR_DEACTIVATE",
       "args": {
         "actorId": "player"
       }
     },
     {
-      "id": "d5972da8-a1cb-59ef-9436-7d125f3dfc25",
+      "id": "bbad61a6-1647-5f70-b48c-2a14d43fd22c",
       "command": "EVENT_WAIT",
       "args": {
         "time": {
@@ -46,7 +46,7 @@
       }
     },
     {
-      "id": "38b20840-4da0-5f3b-b1b4-edf53fefa76f",
+      "id": "e07ff103-7740-5d01-9219-f77375ce8477",
       "command": "EVENT_SWITCH_SCENE",
       "args": {
         "sceneId": "2a13d2dd-dd71-5a4e-b3b8-939d8b3136e2",

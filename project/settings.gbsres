@@ -53,12 +53,12 @@
   "defaultFontId": "4bd653f0-e08d-424e-9e5b-c1f3aaa21e47",
   "defaultCharacterEncoding": "",
   "defaultPlayerSprites": {
-    "TOPDOWN": "434014b6-9d24-5139-bf89-8dc867ecd83c",
+    "TOPDOWN": "b623333f-36f4-5091-8c86-c8b1668f2312",
     "PLATFORM": "434014b6-9d24-5139-bf89-8dc867ecd83c",
     "ADVENTURE": "581d34d0-9591-4e6e-a609-1d94f203b0cd",
     "SHMUP": "581d34d0-9591-4e6e-a609-1d94f203b0cd",
     "POINTNCLICK": "581d34d0-9591-4e6e-a609-1d94f203b0cd",
-    "LOGO": "434014b6-9d24-5139-bf89-8dc867ecd83c"
+    "LOGO": "b623333f-36f4-5091-8c86-c8b1668f2312"
   },
   "musicDriver": "huge",
   "cartType": "mbc5",
