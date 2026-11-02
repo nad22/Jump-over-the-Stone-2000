@@ -25,13 +25,13 @@
       "flipLeft": false,
       "animations": [
         {
-          "id": "0d09d544-0c4e-5f51-898c-2531ee91e8f0",
+          "id": "043d2d03-81f2-5a9e-bd1e-5f5e45c7685f",
           "frames": [
             {
-              "id": "911d7b92-7df4-5da7-97f2-6fc7b6ea78cc",
+              "id": "f6c0f443-c17d-554b-886c-3420eb108584",
               "tiles": [
                 {
-                  "id": "a618a955-f077-54e6-83a8-5018afd4f179",
+                  "id": "48c7e6c5-898f-51fe-9855-0d8eee9ae81b",
                   "x": 0,
                   "y": 0,
                   "sliceX": 0,
@@ -44,7 +44,7 @@
                   "priority": false
                 },
                 {
-                  "id": "e62e4d14-8ca3-53c3-95cf-639b5165d4be",
+                  "id": "7a9142b6-38ab-57ff-b2b6-adac0ba58987",
                   "x": 8,
                   "y": 0,
                   "sliceX": 8,
