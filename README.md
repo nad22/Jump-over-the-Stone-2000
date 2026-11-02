@@ -4,9 +4,9 @@ A silly Game Boy (classic, monochrome) game made with [GB Studio](https://www.gb
 
 - Title screen – press START
 - One platformer screen with a cool commando hero and a stone in the middle
-- Jump over the stone and land on the other side → "THE END" → extremely fast 90s-style credits
-- Run into the stone → the hero explodes in a ridiculous way → "YOU DIED" game over screen
-- **A** = jump (small hop), **B** = fart – hold it longer for a longer fart and a bigger cloud that rises into the sky
+- Jump over the stone and land on the other side → that's it.. a story full of action, comedy, drama and love
+- Don't touch the stone !! -> Full Drama !
+- **A** = jump (small hop), **B** = fart – hold it longer for a longer fart and a bigger cloud that rises into the sky.. but don't hold to long....
 
 ## Play
 
