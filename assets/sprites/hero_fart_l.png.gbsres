@@ -1,0 +1,97 @@
+{
+  "_resourceType": "sprite",
+  "id": "ba66805f-f465-5e5d-b9ac-d0f1885b0f44",
+  "name": "hero_fart_l",
+  "symbol": "sprite_hero_fart_l",
+  "numTiles": 4,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "hero_fart_l.png",
+  "width": 32,
+  "height": 16,
+  "checksum": "e8d38be838793860f02cf15064a6d1026af2fe25",
+  "states": [
+    {
+      "id": "7fddb191-f288-51c0-be67-413f2f959b64",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "9de0f066-c787-5558-a27c-9e26f1813133",
+          "frames": [
+            {
+              "id": "61dc66a4-6bef-53ad-96f1-619e85055057",
+              "tiles": [
+                {
+                  "id": "feb27974-8cf5-5bec-a237-f53befc2587d",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "2bc6e9a4-8c81-523b-b048-f488421561a5",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            },
+            {
+              "id": "e6ca3465-eeb9-5180-a3a7-db28763530b4",
+              "tiles": [
+                {
+                  "id": "5cf9b66f-a37b-5a22-aff4-a49a7cfa4d3b",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 16,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "aba034c7-c901-554c-8306-6978717540cb",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 24,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
